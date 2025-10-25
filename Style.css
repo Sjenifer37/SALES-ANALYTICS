@@ -1,0 +1,70 @@
+.loginPage {
+    background: url('Images/employeems.jpeg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/employeems.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginPage h2,
+.loginPage h3 {
+  color: rgb(242, 239, 239);
+}
+
+
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.6);
+    color: rgba(1, 32, 93, 0.6)
+}
+
+ul li :hover{
+    background-color: rgb(243, 239, 239);
+}
+
+
+.employee_image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+#menu li {
+  margin-bottom: 70px; /* adjust value as you like */
+}
+
+.loginPage label,
+.loginPage .form-label,
+.loginPage .form-check-label {
+  color: white !important;
+}
+
+
+
+
+
+
+
+
+/* Sidebar link on hover */
+.sidebar .nav-link:hover {
+  background-color: #204e7b;  /* Darker shade for hover */
+  color: #fff;                /* Text stays white */
+}
+
+
+
+
+
+
+
+
+/* Header title */
+.main-content .header h4 {
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #f6f4f4;                    /* Ensure text is white */
+}
+
+
+
